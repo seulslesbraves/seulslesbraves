@@ -1,7 +1,5 @@
 # 💫 About Me
 
-![Profile Banner](https://www.canva.com/design/DAG3RL126R0/zPnCAn0rGaWNkfZANjn_YQ/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0) <!-- Replace with your animated banner GIF -->
-
 ✨ Welcome to my corner of GitHub ✨  
 
 🌼 I’m **Rabina Dangol** — curious, creative, and always learning.  
@@ -22,12 +20,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## 🎬 Fun & Learning GIFs
-
-![Learning GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG50ZXZqb2piNXJkczlzODcxOHhvZDExNXFrOGppamxjNHhlN3phdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LXoFuds81sEDJkUDkf/giphy.gif)
 
 ---
 
