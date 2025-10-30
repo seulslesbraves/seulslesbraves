@@ -1,6 +1,6 @@
 # 💫 About Me
 
-![Profile Banner](C:\Users\LENOVO\Pictures\github_banner.png) <!-- Replace with your animated banner GIF -->
+![Profile Banner](https://www.canva.com/design/DAG3RL126R0/zPnCAn0rGaWNkfZANjn_YQ/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0) <!-- Replace with your animated banner GIF -->
 
 ✨ Welcome to my corner of GitHub ✨  
 
@@ -27,11 +27,17 @@
 
 ## 🎬 Fun & Learning GIFs
 
-![Learning GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG50ZXZqb2piNXJkczlzODcxOHhvZDExNXFrOGppamxjNHhlN3phdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LXoFuds81sEDJkUDkf/giphy.gif) <!-- 
+![Learning GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG50ZXZqb2piNXJkczlzODcxOHhvZDExNXFrOGppamxjNHhlN3phdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LXoFuds81sEDJkUDkf/giphy.gif)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=seulslesbraves&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=seulslesbraves&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seulslesbraves&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Rabina's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulslesbraves&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=seulslesbraves&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
