@@ -1,10 +1,10 @@
-# 💫 About Me
+<h1 align="center">✨ Welcome to my corner of GitHub ✨</h1>
 
-✨ Welcome to my corner of GitHub ✨  
-
-🌼 I’m **Rabina Dangol** — curious, creative, and always learning.  
-📊 Learning to turn data into stories.  
+<p align="center">
+🌼 I’m <b>Rabina Dangol</b> — curious, creative, and always learning.<br>
+📊 Learning to turn <b>data into stories</b>.<br>
 💬 Let’s connect and grow together.
+</p>
 
 ---
 
